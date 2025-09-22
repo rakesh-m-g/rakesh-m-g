@@ -1,0 +1,12 @@
+<svg viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Creative Full Stack Developer">
+    <title>Creative Full Stack Developer</title>
+    <rect width="100%" height="100%" fill="transparent"/>
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+                font-family="Segoe UI Rounded, Roboto, Helvetica, Arial, sans-serif"
+                font-size="25" font-weight="300" letter-spacing="5px"
+                fill="#87CEEB">
+        Creative Full Stack Developer
+        <animate attributeName="fill" values="#87CEEB;#1E90FF;#87CEEB" dur="4s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;1;1;0" dur="6s" repeatCount="indefinite"/>
+    </text>
+</svg>
